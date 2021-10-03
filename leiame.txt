@@ -1,0 +1,32 @@
+EXECUÇÃO DO PROJETO - GRUPO 4
+
+Há duas possibilidades: usar apenas o aplicativo pelo apk,
+ou rodar pelo computador, que permite modificar o aplicativo.
+
+Pelo apk, basta baixar pelo link: https://drive.google.com/file/d/1YzjFr4MPK8Dk_F13SWydMxKl65D55zsH/view?usp=sharing
+Mirror: https://www.mediafire.com/file/u0310p1g5kyrrl5/Aplicativo_-_Grupo_4.apk/file
+após baixar, basta permitir instalação de apps por fontes desconhecidas, em seguida é apenas instalar e o app já funciona. 
+Não é possível rodar no iOS, pois seria necessário termos um Mac, o que não temos. Caso não tenha nenhum dispositivo Android, é possível utilizar um
+emulador como o Bluestacks. Essa é a maneira mais fácil de se utilizar o aplicativo, pois não demanda nenhum download adicional.
+
+Para usar pelo computador, vou deixar um vídeo que usamos como base para o Windows, é bem didático e bem mais fácil de entender do que deixar aqui por escrito.
+O vídeo é: https://www.youtube.com/watch?v=yuyoorvL1Y4
+É possível instalar pelo MacOS, porém nós não utilizamos isso pois todos temos Windows. O tutorial para instalação no MacOS é:
+https://www.youtube.com/watch?v=qe2G3gXRMMw
+
+A branch para ser baixada é a master, localizada em https://gitlab.com/jonatasnascimento1/vaccine-form-scanner
+
+No aplicativo, o login como aplicador pode ser feito com o email:
+login: aplicadorteste@gmail.com
+senha: aplicador
+
+Para poder ter acesso ao Firebase, entrem em console.firebase.google.com e loguem com a conta:
+login: engsoftgrupo4@gmail.com
+senha: projetovacinas4
+
+ou com o email do gmail (ou @usp) o qual foi passado ao aluno Igor. Caso não tenham passado, mandem
+um email para igorferro@usp.br que adiciono prontamente a conta de vocês como dono, assim
+tendo acesso total a todos os recursos e monitoramento do Firebase. Então basta clicar em "projetos vacinas".
+Assim, vocês serão redirecionados para o console de monitoramento do Firebase, para acessar a parte de base de dados
+basta clicar no menu lateral em "Firestore Database".
+

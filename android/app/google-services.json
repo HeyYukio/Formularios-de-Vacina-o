@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752324729998",
+    "project_id": "projeto-vacinas",
+    "storage_bucket": "projeto-vacinas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752324729998:android:c1e3b990461ade6959bddf",
+        "android_client_info": {
+          "package_name": "com.package.vaccineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752324729998-ivk92ku6f69ep3hhvm6rch3h49pmafo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.package.vaccineapp",
+            "certificate_hash": "32a00c9c64aa1591148b26ec426a2b666d1bf502"
+          }
+        },
+        {
+          "client_id": "752324729998-4o4udt8fa0r2crpllgv0ubemid6pn8jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS5SrWWE26qreLflQBWraTsqJhQ_9xBhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752324729998-4o4udt8fa0r2crpllgv0ubemid6pn8jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
