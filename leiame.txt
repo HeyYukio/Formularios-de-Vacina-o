@@ -1,5 +1,12 @@
 EXECUÇÃO DO PROJETO - GRUPO 4
 
+Henrique Yukio Murata
+Igor Nunes Ferro
+Jônatas de Souza Nascimento
+Matheus Ribeiro Lira                    
+Nayara Leal dos Santos 
+
+
 Há duas possibilidades: usar apenas o aplicativo pelo apk,
 ou rodar pelo computador, que permite modificar o aplicativo.
 
